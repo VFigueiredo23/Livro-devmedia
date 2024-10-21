@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+}
+
+div{
+    border: 1px solid #d5d5d5;
+    padding: 50px;
+}
+
+h1{
+    font-weight: bold;
+    font-family: 'Tahoma', sans-serif;
+}
+h2{
+    font-weight: bold;
+}
+h3{
+    font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+}
+
+a{
+    background-color: #49B970;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+p{
+    margin: 50px;
+}
